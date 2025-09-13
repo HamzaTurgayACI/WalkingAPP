@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324207876497",
+    "project_id": "walkingapp-e4ff4",
+    "storage_bucket": "walkingapp-e4ff4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324207876497:android:d9a30f09fc508d6be62230",
+        "android_client_info": {
+          "package_name": "com.example.walkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324207876497-c72kb6ibr38rntlh442a5kbkesfihai2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walkingapp",
+            "certificate_hash": "feae3b1f4de2bdc13e321eb16f6eee6e268c13a1"
+          }
+        },
+        {
+          "client_id": "324207876497-e0v79uqovg4aicfbsbti2u9gblvoljc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMXzrC2LRsYCuzqBCXn0dPZnCn4aioaoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324207876497-e0v79uqovg4aicfbsbti2u9gblvoljc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

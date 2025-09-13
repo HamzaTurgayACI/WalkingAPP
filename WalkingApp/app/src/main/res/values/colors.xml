@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#6750A4</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#EADDFF</color>
+    <color name="onPrimaryContainer">#21005D</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#625B71</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#E8DEF8</color>
+    <color name="onSecondaryContainer">#1D192B</color>
+
+    <!-- Tertiary Colors -->
+    <color name="tertiary">#7D5260</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#FFD8E4</color>
+    <color name="onTertiaryContainer">#31111D</color>
+
+    <!-- Background Colors -->
+    <color name="background">#FFFBFE</color>
+    <color name="colorBackground">#FFFBFE</color>
+    <color name="onBackground">#1C1B1F</color>
+
+
+    <!-- Surface Colors -->
+    <color name="surface">#FFFBFE</color>
+    <color name="onSurface">#1C1B1F</color>
+    <color name="surfaceVariant">#E7E0EC</color>
+    <color name="onSurfaceVariant">#49454F</color>
+
+    <!-- Error Colors -->
+    <color name="error">#B00020</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="errorContainer">#F9DEDC</color>
+    <color name="onErrorContainer">#410E0B</color>
+
+    <!-- Neutral Colors -->
+    <color name="outline">#79747E</color>
+    <color name="outlineVariant">#C4C7C5</color>
+    <color name="scrim">#000000</color>
+
+    <!-- Diğer Renkler -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#2BFF36</color>
+    <color name="red">#FF0E00</color>
+</resources>
